@@ -22,7 +22,7 @@ Docker environment for installing a DRUPAL container. Includes instructions for 
 
 4. Overwrite docker-compose.yml from SIR-API with the docker-compose.yml from SIR-GUI repository
 
-5. Using `docker-compose up -d`
+5. Using `docker-compose up -d`, run the containers
 
 6. Access http://YOURDRUPALSITE/admin/config/sir
 
