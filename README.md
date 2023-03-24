@@ -4,7 +4,7 @@ Docker environment for installing a DRUPAL container. Includes instructions for 
 ## How to run SIR-GUI and SIR-API?
 
 # Deploy SIR-GUI Drupal module (in case you already have a Drupal website and SIR-API deployed)
-1. SIRGUI host machine requires the installation of `drupal`
+1. SIRGUI's host machine requires the installation of `drupal` version 8 or 9 (https://www.drupal.org/)
 
 2. Clone the SIRGUI repository (https://github.com/HADatAc/sir) into custom drupal modules folder.
 
